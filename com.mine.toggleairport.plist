@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>com.mine.toggleairport</string>
+  <string>com.kevin.toggleairport</string>
   <key>OnDemand</key>
   <true/>
   <key>ProgramArguments</key>
